@@ -1,0 +1,17 @@
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\bin\Debug\net6.0\PortfolioApp.DataAccess.deps.json
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\bin\Debug\net6.0\PortfolioApp.DataAccess.runtimeconfig.json
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\bin\Debug\net6.0\PortfolioApp.DataAccess.dll
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\bin\Debug\net6.0\PortfolioApp.DataAccess.pdb
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\bin\Debug\net6.0\PortfolioApp.Entites.dll
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\bin\Debug\net6.0\PortfolioApp.Entites.pdb
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\PortfolioApp.DataAccess.csproj.AssemblyReference.cache
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\PortfolioApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\PortfolioApp.DataAccess.AssemblyInfoInputs.cache
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\PortfolioApp.DataAccess.AssemblyInfo.cs
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\PortfolioApp.DataAccess.csproj.CoreCompileInputs.cache
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\PortfolioApp.DataAccess.csproj.CopyComplete
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\PortfolioApp.DataAccess.dll
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\refint\PortfolioApp.DataAccess.dll
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\PortfolioApp.DataAccess.pdb
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\PortfolioApp.DataAccess.genruntimeconfig.cache
+E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.DataAccess\obj\Debug\net6.0\ref\PortfolioApp.DataAccess.dll
