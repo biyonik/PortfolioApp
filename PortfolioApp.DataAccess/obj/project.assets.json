@@ -190,6 +190,19 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {}
         }
       },
+      "Microsoft.Extensions.Configuration/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -966,6 +979,25 @@
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml",
         "microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
         "microsoft.extensions.caching.memory.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Configuration/6.0.1": {
+      "sha512": "BUyFU9t+HzlSE7ri4B+AQN2BgTgHv/uM82s5ZkgU1BApyzWzIl48nDsG5wR1t0pniNuuyTBzG3qCW8152/NtSw==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Configuration.dll",
+        "lib/net461/Microsoft.Extensions.Configuration.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.xml",
+        "microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+        "microsoft.extensions.configuration.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -1879,36 +1911,45 @@
       "Microsoft.EntityFrameworkCore.Design >= 6.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.3",
+      "Microsoft.Extensions.Configuration >= 6.0.1",
       "PortfolioApp.Entites >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\": {}
+    "C:\\Users\\ahmet\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
+      "projectUniqueName": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
       "projectName": "PortfolioApp.DataAccess",
-      "projectPath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\",
-      "outputPath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\obj\\",
+      "projectPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
+      "outputPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\AHMET ALTUN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {
-              "projectPath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj"
+            "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {
+              "projectPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj"
             }
           }
         }
@@ -1938,6 +1979,10 @@
           "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
             "version": "[6.0.3, )"
+          },
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[6.0.1, )"
           }
         },
         "imports": [
@@ -1955,7 +2000,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

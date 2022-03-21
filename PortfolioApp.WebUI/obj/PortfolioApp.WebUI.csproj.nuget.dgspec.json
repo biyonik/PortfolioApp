@@ -1,25 +1,117 @@
 {
   "format": 1,
   "restore": {
-    "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.WebUI\\PortfolioApp.WebUI.csproj": {}
+    "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.WebUI\\PortfolioApp.WebUI.csproj": {}
   },
   "projects": {
-    "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.WebUI\\PortfolioApp.WebUI.csproj": {
+    "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.WebUI\\PortfolioApp.WebUI.csproj",
-        "projectName": "PortfolioApp.WebUI",
-        "projectPath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.WebUI\\PortfolioApp.WebUI.csproj",
-        "packagesPath": "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\",
-        "outputPath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.WebUI\\obj\\",
+        "projectUniqueName": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
+        "projectName": "PortfolioApp.DataAccess",
+        "projectPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
+        "outputPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\AHMET ALTUN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {
+                "projectPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
+        "projectName": "PortfolioApp.Entites",
+        "projectPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
+        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
+        "outputPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +129,97 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.WebUI\\PortfolioApp.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.WebUI\\PortfolioApp.WebUI.csproj",
+        "projectName": "PortfolioApp.WebUI",
+        "projectPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.WebUI\\PortfolioApp.WebUI.csproj",
+        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
+        "outputPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj": {
+                "projectPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +238,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

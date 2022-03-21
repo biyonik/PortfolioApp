@@ -1,13 +1,19 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using PortfolioApp.Entites.Concrete; 
 
 namespace PortfolioApp.DataAccess.Context.EntityFramework
 {
     public class PortfolioAppContext: DbContext
     {
+        private readonly IConfiguration _configuration;
+        public PortfolioAppContext(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) 
         {
-            optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=PortfolioAppDb;Integrated Security=True;");
+            optionsBuilder.UseSqlServer(_configuration.GetConnectionString("DefaultConnection"));
         }
 
         public DbSet<About> Abouts  { get; set; }

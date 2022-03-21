@@ -1861,24 +1861,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\": {}
+    "C:\\Users\\ahmet\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
+      "projectUniqueName": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
       "projectName": "PortfolioApp.Entites",
-      "projectPath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
-      "packagesPath": "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\",
-      "outputPath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\obj\\",
+      "projectPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
+      "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
+      "outputPath": "I:\\Projects\\NetCore\\PortfolioApp\\PortfolioApp.Entites\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\AHMET ALTUN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1929,7 +1937,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
