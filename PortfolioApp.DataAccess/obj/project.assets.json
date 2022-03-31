@@ -1888,11 +1888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
+      "projectUniqueName": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
       "projectName": "PortfolioApp.DataAccess",
-      "projectPath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
+      "projectPath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
       "packagesPath": "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\",
-      "outputPath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\obj\\",
+      "outputPath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AHMET ALTUN\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1907,8 +1907,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {
-              "projectPath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj"
+            "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {
+              "projectPath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj"
             }
           }
         }

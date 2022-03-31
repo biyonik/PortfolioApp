@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {}
+    "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {}
   },
   "projects": {
-    "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {
+    "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
+        "projectUniqueName": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
         "projectName": "PortfolioApp.Entites",
-        "projectPath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
+        "projectPath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
         "packagesPath": "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\",
-        "outputPath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\obj\\",
+        "outputPath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AHMET ALTUN\\AppData\\Roaming\\NuGet\\NuGet.Config"

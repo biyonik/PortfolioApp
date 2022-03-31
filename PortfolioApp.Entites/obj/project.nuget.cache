@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LbO4X4pv3/ptSUeBX2ysLlzGgEdDfdAUijiKoZj3PPKleSpfn2hOox6bMgNvZZJ2AMP54EQz84JAtFTgYNOeEA==",
+  "dgSpecHash": "qrqZYM+UaOnhNVLsnW2BjA8KTE2cTVxOyEMy5uxP9OR3FGjjScf1Bn/DIahEMNvDMVLm4RESDv30uCR3yaPyKw==",
   "success": true,
-  "projectFilePath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
+  "projectFilePath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.Entites\\PortfolioApp.Entites.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

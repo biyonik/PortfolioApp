@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZkyAyoSFY+YgWig7OMU74klR7ixD7n83RqdK8H16mKCq/gJrU7Aj3UU9SbmThgoc7/C9N9QVfrfcsopK27PpRw==",
+  "dgSpecHash": "ePeAPIpIn8K4i+lhGCsF7GknZ7JXZ5upRHHOizSbtoM84PrH9oW8RoovWqpxdbih40Cx7yUaDYLHEDAVko4qJw==",
   "success": true,
-  "projectFilePath": "E:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
+  "projectFilePath": "e:\\NetCoreLearnPath\\AdimAdimWebGelistirme\\PortfolioApp\\PortfolioApp.DataAccess\\PortfolioApp.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\AHMET ALTUN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
