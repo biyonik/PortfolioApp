@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using PortfolioApp.DataAccess.Context.EntityFramework;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<PortfolioAppContext>();
 
 var app = builder.Build();
 

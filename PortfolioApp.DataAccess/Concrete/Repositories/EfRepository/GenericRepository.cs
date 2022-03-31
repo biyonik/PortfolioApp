@@ -20,7 +20,7 @@ namespace PortfolioApp.DataAccess.Concrete.Repositories.EntityFramework
         public async Task AddAsync(TEntity entity)
         {
             if(entity == null) {
-                throw new ArgumentNullException("Ekleme işlemi başarısız oldu! Varlık öğesi boş bırakılamaz!");
+                throw new InvalidOperationException("Ekleme işlemi başarısız oldu! Varlık öğesi boş bırakılamaz!");
             }
             await _entity.AddAsync(entity);
             await _context.SaveChangesAsync();
@@ -39,7 +39,7 @@ namespace PortfolioApp.DataAccess.Concrete.Repositories.EntityFramework
         public void Remove(TEntity entity)
         {
             if(entity == null) {
-                throw new ArgumentNullException("Silme işlemi başarısız oldu! Varlık öğesi boş bırakılamaz!");
+                throw new InvalidOperationException("Silme işlemi başarısız oldu! Varlık öğesi boş bırakılamaz!");
             }
             _entity.Remove(entity);
             _context.SaveChanges();
@@ -48,7 +48,7 @@ namespace PortfolioApp.DataAccess.Concrete.Repositories.EntityFramework
         public void Update(TEntity entity)
         {
             if(entity == null) {
-                throw new ArgumentNullException("Güncelleme işlemi başarısız oldu! Varlık öğesi boş bırakılamaz!");
+                throw new InvalidOperationException("Güncelleme işlemi başarısız oldu! Varlık öğesi boş bırakılamaz!");
             }
             _entity.Update(entity);
             _context.SaveChanges();

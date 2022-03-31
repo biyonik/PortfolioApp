@@ -12,3 +12,17 @@ E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.Entites\obj\
 E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.pdb
 E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.genruntimeconfig.cache
 E:\NetCoreLearnPath\AdimAdimWebGelistirme\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\ref\PortfolioApp.Entites.dll
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\bin\Debug\net6.0\PortfolioApp.Entites.deps.json
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\bin\Debug\net6.0\PortfolioApp.Entites.runtimeconfig.json
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\bin\Debug\net6.0\PortfolioApp.Entites.dll
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\bin\Debug\net6.0\PortfolioApp.Entites.pdb
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.csproj.AssemblyReference.cache
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.AssemblyInfoInputs.cache
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.AssemblyInfo.cs
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.csproj.CoreCompileInputs.cache
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.dll
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\refint\PortfolioApp.Entites.dll
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.pdb
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\PortfolioApp.Entites.genruntimeconfig.cache
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.Entites\obj\Debug\net6.0\ref\PortfolioApp.Entites.dll

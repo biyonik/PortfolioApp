@@ -9,8 +9,6 @@ namespace PortfolioApp.DataAccess.Abstract
         Task AddAsync(TEntity entity);
         void Update(TEntity entity);
         void Remove(TEntity entity);
-
-
     }
 
 }

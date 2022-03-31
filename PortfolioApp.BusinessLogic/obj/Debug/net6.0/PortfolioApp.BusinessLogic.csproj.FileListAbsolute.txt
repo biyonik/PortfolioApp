@@ -1,0 +1,12 @@
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\bin\Debug\net6.0\PortfolioApp.BusinessLogic.deps.json
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\bin\Debug\net6.0\PortfolioApp.BusinessLogic.dll
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\bin\Debug\net6.0\PortfolioApp.BusinessLogic.pdb
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\obj\Debug\net6.0\PortfolioApp.BusinessLogic.csproj.AssemblyReference.cache
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\obj\Debug\net6.0\PortfolioApp.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\obj\Debug\net6.0\PortfolioApp.BusinessLogic.AssemblyInfoInputs.cache
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\obj\Debug\net6.0\PortfolioApp.BusinessLogic.AssemblyInfo.cs
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\obj\Debug\net6.0\PortfolioApp.BusinessLogic.csproj.CoreCompileInputs.cache
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\obj\Debug\net6.0\PortfolioApp.BusinessLogic.dll
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\obj\Debug\net6.0\refint\PortfolioApp.BusinessLogic.dll
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\obj\Debug\net6.0\PortfolioApp.BusinessLogic.pdb
+I:\Projects\NetCore\PortfolioApp\PortfolioApp.BusinessLogic\obj\Debug\net6.0\ref\PortfolioApp.BusinessLogic.dll
